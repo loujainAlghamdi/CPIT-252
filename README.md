@@ -1,99 +1,98 @@
-# Moon Light Wedding Hall – Online Reservation System
+# Moon Light Wedding Hall – Reservation System  
+CPIT-252 – System Analysis and Design  
+King Abdulaziz University
 
-This project presents a complete analysis and design for an online reservation system for Moon Light Wedding Hall in Jeddah, Saudi Arabia.  
-The system aims to make it easier for customers to access hall information, explore available services, view schedules, and complete reservation steps.  
-This project was developed as part of **CPIT-252 – System Analysis and Design** at King Abdulaziz University.
+This project presents the complete analysis and design of a reservation system for **Moon Light Wedding Hall** in Jeddah, Saudi Arabia.  
+The system was analyzed, modeled, and partially prototyped using Java, Figma, and Draw.io as part of the CPIT-252 course requirements.
+
+The objective of the system is to streamline the reservation process, provide clear service information, and support management tasks such as tracking events and customer details.
 
 ---
 
 ## Project Overview
 
-The Moon Light Wedding Hall system provides a structured process for customers to register, select a package, choose a date, and complete a reservation.  
-It also supports management tasks such as tracking appointments, viewing upcoming events, and monitoring customer feedback.
+The project delivers a full system analysis and design for a wedding hall reservation platform.  
+It includes documentation of requirements, use cases, system diagrams, user interfaces, and a Java-based conceptual implementation.  
+The work covers:
 
-The project includes full documentation such as:  
-- Requirement analysis  
-- Use case scenarios  
-- Data flow diagrams  
-- Class and sequence diagrams  
-- State diagrams  
-- User interface design
+- Requirement identification  
+- System analysis  
+- Functional and non-functional requirements  
+- UML modeling  
+- User interface design  
+- Java-based implementation for main functions  
 
 ---
 
-## Main Features
+## Features (Proposed System)
 
-### Customer Side
-- View hall information and available services  
-- Browse a gallery of hall images  
-- Create an account and log in  
-- Select packages and available dates  
-- Submit reservation requests  
-- Receive reminder notifications before event day  
-- View visiting hours and location details  
+### Customer Features
+- View available services and hall information  
+- Register and log in  
+- Choose packages  
+- Select an available event date  
+- Submit a reservation request  
+- Receive reminder notifications before their event  
+- View visiting hours  
 
-### Management Side
-- Manage reservations  
-- Access customer details  
-- View upcoming event schedule  
-- Track daily preparations  
+### Management Features
+- View and manage reservation requests  
+- Access customer information  
+- Display upcoming events  
+- Track wedding-day preparations  
 - Review customer feedback  
 
 ---
 
 ## Problems Addressed
 
-Traditional wedding hall reservations often involve:  
-- Limited access to information  
-- Inaccurate or unclear availability  
-- Requirement to visit in person  
-- Lack of centralized booking  
-- Miscommunication regarding event preparation
+The manual reservation process causes:  
+- Lack of direct access to information  
+- Unclear availability schedules  
+- Need to visit the hall physically  
+- Miscommunication regarding event preparation  
 
-The proposed system solves these issues by providing:
-- A unified and accessible online platform  
-- Real-time availability  
-- Clear booking steps  
-- Organized service descriptions  
-- Automated reminders and customer tracking  
+The proposed system addresses these issues by providing:  
+- A structured reservation workflow  
+- Clear communication of services  
+- Organized scheduling information  
+- Efficient customer–management interaction  
 
 ---
 
-## Project Objectives
+## Tools and Technologies
 
-- Develop an easy-to-use reservation interface  
-- Provide updated details about hall services  
-- Display packages and availability accurately  
-- Allow users to register and book dates online  
-- Support managers with tools to track and manage events  
-- Improve communication and reduce booking errors  
+### Development  
+- **Java** (main programming language used during system modeling)
 
----
+### Design & Modeling  
+- **Figma** – UI design and layout  
+- **Draw.io** – UML diagrams, DFDs, and workflow charts  
 
-## System Modeling and Documentation
-
-This project includes full system documentation, including:
-
-- **Use Case Diagram and Use Case Scenarios**  
-- **DFD (Context Diagram, Level-0, Level-1, Level-2)**  
-- **Activity Diagram**  
-- **Class Diagram**  
-- **Sequence Diagram**  
-- **State Machine Diagram**  
-- **UI Mockups**
-
-(These diagrams can be added as images in a `documentation/` folder if needed.)
+### Documentation  
+- Structured according to CPIT-252 course guidelines  
 
 ---
 
-## Technologies and Tools
+## System Documentation
 
-- HTML5 and CSS  
-- JavaScript  
-- Figma (UI/Mockups)  
-- UML Modeling Tools (for diagrams)  
-- Structured Analysis (DFD, Use Cases)  
+The project includes full system models created using Draw.io:
+
+- Use Case Diagram  
+- Use Case Scenarios  
+- Activity Diagram  
+- Data Flow Diagram (Context, Level-0, Level-1, Level-2)  
+- Sequence Diagram  
+- Class Diagram  
+- State Diagram  
+
+UI mockups and interface concepts were designed using Figma.
+
+
 
 ---
 
-## Folder Structure (Suggested)
+## Notes
+
+This project was developed for academic purposes under the CPIT-252 course at King Abdulaziz University.  
+It focuses on **analysis, design, modeling, and user interface development** rather than a full software implementation.
