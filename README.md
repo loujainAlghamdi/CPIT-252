@@ -88,7 +88,35 @@ The project includes full system models created using Draw.io:
 
 UI mockups and interface concepts were designed using Figma.
 
+---
 
+## User Interface (UI Mockups)
+
+The following interface designs were created using **Figma** to represent the proposed layout and user journey of the Moon Light Wedding Hall Reservation System.  
+These mockups illustrate the main screens used by customers and managers throughout the reservation process.
+
+You can add screenshots of the UI by uploading them into a folder named `ui/` inside the repository, then referencing them as follows:
+
+### Home Page
+![Home Page](ui/home.png)
+
+### Registration Page
+![Registration Page](ui/register.png)
+
+### Login Page
+![Login Page](ui/login.png)
+
+### Package Selection
+![Package Selection](ui/packages.png)
+
+### Date Selection
+![Date Selection](ui/date-selection.png)
+
+### Reservation Summary
+![Reservation Summary](ui/summary.png)
+
+### Manager Dashboard
+![Manager Dashboard](ui/dashboard.png)
 
 ---
 
