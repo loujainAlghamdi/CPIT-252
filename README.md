@@ -95,7 +95,7 @@ UI mockups and interface concepts were designed using Figma.
 All system analysis, diagrams, and UI mockups are available in the project report:
 
 📄 **Full Project Report (PDF)**  
-[Click here to view](docs/report.pdf)
+[Click here to view](docs/Moon%20Light%20Wedding%20Hall_compressed.pdf)
 
 This report includes:
 - System analysis  
